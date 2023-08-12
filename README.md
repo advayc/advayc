@@ -27,10 +27,10 @@ You can click the Preview link to take a look at your changes.
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=225 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=advay-c&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="My Language stats" />
+<img height=220 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=advay-c&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="My Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=225 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=advay-c&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=github&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="My Github stats" />
+<img height=220 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=advay-c&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=github&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="My Github stats" />
 </a>
 </div>
 
