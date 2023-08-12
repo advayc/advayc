@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Advay Chandorkar! I'm a passionate self taught developer from Toronto Canada <a href="https://twitter.com/advay_0">
-  <img align="right" alt="Anurag Hazra | Twitter" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+- 👋 Hi, I’m Advay Chandorkar! I'm a passionate self taught developer from Toronto Canada 
 
 
-- 💻 Interested in c++ python html and css 
+- 💻 Interested in c++ python html and css
+  
   
 - 🤖 Web Developer
+  
   
 - 🎮 Game Developer
 
@@ -37,3 +37,6 @@ You can click the Preview link to take a look at your changes.
 </a>
 </div>
 
+<a href="https://twitter.com/advay_0">
+  <img align="right" alt="Anurag Hazra | Twitter" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
