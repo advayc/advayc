@@ -34,3 +34,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 </div>
 
+<a href="https://twitter.com/advay_0">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
