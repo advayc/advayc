@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Advay Chandorkar! I'm a passionate self taught developer from Toronto Canada 
+- Passionate self taught developer from Toronto Canada 
 
 
 - 💻 Interested in c++ python html and css
