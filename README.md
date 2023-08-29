@@ -4,7 +4,7 @@
 - 💻 Proficient in c++ python html and css
   
   
-- Web and Game Developer
+- 🎮 Game and Web Developer
   
   
 
