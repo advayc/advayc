@@ -1,10 +1,8 @@
 - Passionate self taught developer from Toronto Canada 
 
 
-- 💻 Proficient in c++ python html and css
+- 💻 Proficient in c++ javascript html python and css
   
-  
-- 🎮 Game and Web Developer
   
   
 
