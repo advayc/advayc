@@ -1,11 +1,6 @@
-- Passionate self taught developer from Toronto Canada 
+Hey, I'm Advay! 👋🏽
 
-
-- 💻 Proficient in c++ javascript html python and css
-  
-  
-  
-
+I'm a Passionate self taught developer from Toronto Canada who has a strong intrest in web and game development in various langauges. Currently I'm interested in c++, javascript, html css and python.
 
 
 <!---
