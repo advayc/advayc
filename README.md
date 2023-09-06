@@ -1,6 +1,6 @@
 Hey, I'm Advay! 👋
 
-I'm a 14 year old
+I'm a Passionate self taught developer from Toronto Canada who has a strong intrest in web and game development. Currently I'm interested in c++, javascript, html, css and python.
 
 <!---
 advay-c/advay-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
