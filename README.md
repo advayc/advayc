@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
+![Hits](https://hits-app.vercel.app/hits?url=https://github.com/advay-c/hits&bgRight=292B2F)
