@@ -6,8 +6,3 @@ I'm a developer from Toronto who has a strong intrest in web, game development a
 advay-c/advay-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
-
-
-
-
-![Hits](https://hits-app.vercel.app/hits?url=https://github.com/advay-c/hits&bgRight=292B2F)
