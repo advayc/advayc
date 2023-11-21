@@ -1,6 +1,6 @@
 Hey, I'm Advay! 👋
 
-I'm a developer from Toronto who has a strong intrest in web, game development, competitive programming with data structures and algorithms. Currently I'm interested in c++, javascript, typescript, css and python.
+I'm a 14 year old developer from Toronto who has a strong intrest in web, game development, competitive programming with data structures and algorithms. Currently I'm interested in c++, javascript, typescript, css and python.
 
 <!---
 advay-c/advay-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
