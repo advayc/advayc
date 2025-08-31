@@ -3,7 +3,7 @@
 [![site](https://img.shields.io/badge/website-advay.ca-b60e0e)](https://advay.ca)
 [![views](https://komarev.com/ghpvc/?username=advayc&label=views&color=b60e0e&style=flat)](https://github.ca/advayc) 
 
-- 16 yr old full stack dev in toronto 🇨🇦
+- im a 16 yr old full stack dev in toronto 🇨🇦
 - building autonomous robots making websites and [solving problems](https://dmoj.ca/user/advayc)
 - prev worked with: [futuremd](https://futuremd.net/) & [neurotechuoft](https://neurotechuoft.ca/)
 - recently i built:
