@@ -16,6 +16,8 @@
   - [personal](https://advay.ca) (operating system themed portfolio site, implemented as a view counter, 10k+ visits)
   - [31331B](https://github.com/advayc/) (led a team of 10 where we built an autonomous robot for the VEX Robotics competition, went to ontario provs in our 1st yr)
   - [calculator](https://github.com/advayc/calculator) (physical calculator built irl with an ATmega 324PA board & lcd display)
+
+currently im building mobile apps and fullstack web apps
     
 <!---
 advay-c/advay-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
