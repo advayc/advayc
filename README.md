@@ -13,7 +13,7 @@
   - [spy](https://spy.advay.ca) (guess the spy IOS party game, built with react native & expo)
   - [sitemaker](https://sitemaker.advay.ca) (turns your resume into a personal site, 500+ users)
   - [gq planets](https://github.com/DeadUser123/Space-APPS-Hackathon) (machine learning tool to detect exoplanets and won a nasa hackathon)
-  - [nums](https://docs.advay.ca) (a custom counting API written in go (learnt go in a week), 10k+ requests, built with go & redis)
+  - [nums](https://docs.advay.ca) (a custom counting API written in go, 10k+ requests, built with go & redis)
   - [personal](https://advay.ca) (operating system themed portfolio site, implemented as a view counter, 10k+ visits)
   - [31331B](https://github.com/advayc/31331B-VRC-High-Stakes) (led a team of 10 where we built an autonomous robot for the VEX Robotics competition, went to ontario provs in our 1st yr)
   - [calculator](https://github.com/advayc/calculator) (physical calculator built irl with an ATmega 324PA board & lcd display)
