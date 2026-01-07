@@ -10,7 +10,7 @@
 - prev worked with: [futuremd](https://futuremd.net/) & [neurotechuoft](https://neurotechuoft.ca/)
 - recently i built:
   - [spy](https://spy.advay.ca) (IOS party game to guess the imposter (1k downloads), built with react native)
-  - [67 detector + pinch to draw](https://spy.advay.ca) (67 detector built with opencv and program to draw on the screen by pinching)
+  - [pinch to draw](https://github.com/advayc/67-detector) (opencv program to draw on the screen by pinching)
   - [GFSS Calendar](https://clubs.advay.ca) (full stack calendar app to display club events/meetings around the school)
   - [sitemaker](https://sitemaker.advay.ca) (turns your resume into a personal site, 500+ users)
   - [gq planets](https://github.com/DeadUser123/Space-APPS-Hackathon) (machine learning tool to detect exoplanets and won a nasa hackathon)
