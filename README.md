@@ -9,6 +9,7 @@
 - building autonomous robots making websites and [solving problems](https://dmoj.ca/user/advayc)
 - prev worked with: [futuremd](https://futuremd.net/) & [neurotechuoft](https://neurotechuoft.ca/)
 - recently i built:
+  - [miway leaderboard](https://miway.advay.ca/) (site to track current speeds of miway buses from the mississauga gtfs realtime data api)
   - [spy](https://spy.advay.ca) (IOS party game to guess the imposter (1k downloads), built with react native)
   - [pinch to draw](https://github.com/advayc/67-detector) (opencv program to draw on the screen by pinching)
   - [GFSS Calendar](https://clubs.advay.ca) (full stack calendar app to display club events/meetings around the school)
