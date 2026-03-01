@@ -11,7 +11,7 @@
 - recently i built:
   - [miway leaderboard](https://miway.advay.ca/) (site to track current speeds of miway buses from the mississauga gtfs realtime data api)
   - [spy](https://spy.advay.ca) (IOS party game to guess the imposter (1k downloads), built with react native)
-  - [library](https://github.com/advayc/67-detector) (script to book library study rooms for me and add them to my notion calendar
+  - [library](https://github.com/advayc/library) (script to book library study rooms for me and add them to my notion calendar
   - [pinch to draw](https://github.com/advayc/67-detector) (opencv program to draw on the screen by pinching)
   - [GFSS Calendar](https://clubs.advay.ca) (full stack calendar app to display club events/meetings around the school)
   - [sitemaker](https://sitemaker.advay.ca) (turns your resume into a personal site, 500+ users)
