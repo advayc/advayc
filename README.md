@@ -6,21 +6,16 @@
 )](https://advay.ca) 
 
 - im a 17 yr old full stack dev in toronto 🇨🇦
-- building autonomous robots making websites and [solving problems](https://dmoj.ca/user/advayc)
+- building autonomous robots making apps and [solving problems](https://dmoj.ca/user/advayc)
 - prev worked with: [futuremd](https://futuremd.net/) & [neurotechuoft](https://neurotechuoft.ca/)
 - recently i built:
   - [miway leaderboard](https://miway.advay.ca/) (site to track current speeds of miway buses from the mississauga gtfs realtime data api)
-  - [spy](https://spy.advay.ca) (IOS party game to guess the imposter (1k downloads), built with react native)
-  - [library](https://github.com/advayc/library) (script to book library study rooms for me and add them to my notion calendar
-  - [pinch to draw](https://github.com/advayc/67-detector) (opencv program to draw on the screen by pinching)
-  - [GFSS Calendar](https://clubs.advay.ca) (full stack calendar app to display club events/meetings around the school)
-  - [sitemaker](https://sitemaker.advay.ca) (turns your resume into a personal site, 500+ users)
+  - [spy](https://spy.advay.ca) (app to play imposter)
+  - [pinch to draw](https://github.com/advayc/67-detector) (opencv program to draw on the screen by pinching, and a 67 detector)
+  - [GFSS Calendar](https://clubs.advay.ca) (full stack calendar app to display club events/meetings around my school)
+  - [sitemaker](https://sitemaker.advay.ca) (turns your resume into a personal site)
   - [gq planets](https://github.com/DeadUser123/Space-APPS-Hackathon) (machine learning tool to detect exoplanets and won a nasa hackathon)
   - [nums](https://docs.advay.ca) (a custom counting API written in go, 10k+ requests, built with go & redis)
-  - [personal](https://advay.ca) (operating system themed portfolio site, implemented as a view counter, 10k+ visits)
-  - [31331B](https://github.com/advayc/31331B-VRC-High-Stakes) (led a team of 10 where we built an autonomous robot for the VEX Robotics competition, went to ontario provs in our 1st yr)
-  - [calculator](https://github.com/advayc/calculator) (physical calculator built irl with an ATmega 324PA board lcd display & keypad)
-currently im building mobile apps and fullstack web apps
     
 <!---
 advay-c/advay-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
