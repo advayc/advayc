@@ -6,12 +6,11 @@
 )](https://advay.ca) 
 
 - im a 17 yr old full stack dev in toronto 🇨🇦
-- building autonomous robots making apps and [solving problems](https://dmoj.ca/user/advayc)
+- making apps and [solving problems](https://dmoj.ca/user/advayc)
 - prev worked with: [futuremd](https://futuremd.net/) & [neurotechuoft](https://neurotechuoft.ca/)
 - recently i built:
-  - [miway leaderboard](https://miway.advay.ca/) (site to track current speeds of miway buses from the mississauga gtfs realtime data api)
+  - [miway leaderboard](https://miway.advay.ca/) (site to track current speeds of miway buses from the mississauga realtime data api)
   - [spy](https://spy.advay.ca) (app to play imposter)
-  - [pinch to draw](https://github.com/advayc/67-detector) (opencv program to draw on the screen by pinching, and a 67 detector)
   - [GFSS Calendar](https://clubs.advay.ca) (full stack calendar app to display club events/meetings around my school)
   - [sitemaker](https://sitemaker.advay.ca) (turns your resume into a personal site)
   - [gq planets](https://github.com/DeadUser123/Space-APPS-Hackathon) (machine learning tool to detect exoplanets and won a nasa hackathon)
