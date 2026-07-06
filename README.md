@@ -13,6 +13,7 @@
   - [spy](https://spy.advay.ca) (app to play imposter)
   - [GFSS Calendar](https://clubs.advay.ca) (full stack calendar app to display club events/meetings around my school)
   - [sitemaker](https://sitemaker.advay.ca) (turns your resume into a personal site)
+  - [wrapped](https://github.com/advayc/wrapped) (spotify wrapped for imessage)
   - [gq planets](https://github.com/DeadUser123/Space-APPS-Hackathon) (machine learning tool to detect exoplanets and won a nasa hackathon)
   - [nums](https://docs.advay.ca) (a custom counting API written in go, 10k+ requests, built with go & redis)
     
