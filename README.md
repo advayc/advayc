@@ -9,13 +9,14 @@
 - making apps and [solving problems](https://dmoj.ca/user/advayc)
 - prev worked with: [futuremd](https://futuremd.net/) & [neurotechuoft](https://neurotechuoft.ca/)
 - recently i built:
+  - [GFSS Calendar](https://clubs.advay.ca) (full stack calendar app to display club events/meetings around my school (1500+ mau))
+  - [nums](https://docs.advay.ca) (a custom counting API written in go, 10k+ requests, built with go & redis)
+  - [seva eats](https://github.com/Seva-Eats) (A platform connecting authentic Gurdwara food to families in need, free of charge)
+  - [wrapped](https://github.com/advayc/wrapped) (spotify wrapped for imessage)
   - [miway leaderboard](https://miway.advay.ca/) (site to track current speeds of miway buses from the mississauga realtime data api)
   - [spy](https://spy.advay.ca) (app to play imposter)
-  - [GFSS Calendar](https://clubs.advay.ca) (full stack calendar app to display club events/meetings around my school)
   - [sitemaker](https://sitemaker.advay.ca) (turns your resume into a personal site)
-  - [wrapped](https://github.com/advayc/wrapped) (spotify wrapped for imessage)
   - [gq planets](https://github.com/DeadUser123/Space-APPS-Hackathon) (machine learning tool to detect exoplanets and won a nasa hackathon)
-  - [nums](https://docs.advay.ca) (a custom counting API written in go, 10k+ requests, built with go & redis)
     
 <!---
 advay-c/advay-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
