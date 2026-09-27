@@ -9,7 +9,7 @@
 - making apps and [solving problems](https://dmoj.ca/user/advayc)
 - prev worked with: [futuremd](https://futuremd.net/) & [neurotechuoft](https://neurotechuoft.ca/)
 - recently i built:
-  - [GFSS Calendar](https://clubs.advay.ca) (full stack calendar app to display club events/meetings around my school (1500+ mau))
+  - [GFSS Calendar](https://clubs.advay.ca) (full stack calendar app to display club events/meetings around my school (1500+ daily users))
   - [nums](https://docs.advay.ca) (a custom counting API written in go, 10k+ requests, built with go & redis)
   - [seva eats](https://github.com/Seva-Eats) (A platform connecting authentic Gurdwara food to families in need, free of charge)
   - [wrapped](https://github.com/advayc/wrapped) (spotify wrapped for imessage)
